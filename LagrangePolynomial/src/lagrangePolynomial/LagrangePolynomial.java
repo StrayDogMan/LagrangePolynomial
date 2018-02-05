@@ -7,11 +7,6 @@ public class LagrangePolynomial {
 		points = Points;
 	}
 
-
-	public static void main(String[] args) {
-
-	}
-
 	public float culcY(float X) {
 		//return data
 		float y = 0.0f;
